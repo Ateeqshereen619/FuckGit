@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "changelog": "Security Update 2.0\n - Added new antiban\n - Fixed onlinr Update",
+  "version_code": 3,
+  "changelog": "Security Update 2.0\n - Added new antiban\n - Fixed online + ui Update",
   "download_url": "https://raw.githubusercontent.com/Ateeqshereen619/FuckGit/main/libGVoicePlugin.so",
-  "checksum": "6572b24f6ff136b275ff911d9de6bbab5f17baa057ab526912629f36d51ffe45"
+  "checksum": "07c1e1dbd3862155d972dc6056e370b994e2c6b15edb0de0762cc9e94d756b55"
 }
