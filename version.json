@@ -1,6 +1,6 @@
 {
-  "version_code": 4,
+  "version_code": 2,
   "download_url": "https://raw.githubusercontent.com/Ateeqshereen619/FuckGit/main/libGVoicePlugin.so",
-  "checksum": "2c10b59741cf6ff36d063399ed6ef9a502e846ce5ee3f8a4adf19d4bbc63fec4",
-  "changelog": "• Testing Again\n• All ban Fixed"
+  "checksum": "3cee0afa62523244692703e1e39e052993991dab789c452b5fff03379c700ce9",
+  "changelog": "• Bot Testing\n• lib Injection Testing"
 }
