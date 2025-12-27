@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
+  "version_code": 3,
   "download_url": "https://raw.githubusercontent.com/Ateeqshereen619/FuckGit/main/libGVoicePlugin.so",
-  "checksum": "3cee0afa62523244692703e1e39e052993991dab789c452b5fff03379c700ce9",
-  "changelog": "• Bot Testing\n• lib Injection Testing"
+  "checksum": "2cbbca696e4561922f42bad6f8cec99eebbe31051d4bfa039ce03d07cbe4847b",
+  "changelog": "• MIUI Fixed\n• GitHub blocks connection\n• Alindo"
 }
