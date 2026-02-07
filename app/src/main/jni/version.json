@@ -1,6 +1,6 @@
 {
-  "version_code": 4,
+  "version_code": 5,
   "download_url": "https://raw.githubusercontent.com/Ateeqshereen619/FuckGit/main/libGVoicePlugin.so",
   "checksum": "fcf6a13c91c63a42e13f3a892e1d3fe7f656a06fa13fb3592905d46decdaba37",
-  "changelog": "• Login Problem Fixed\n• Region Base Language Fixed\n• Safe Bullet Track Added"
+  "changelog": "• Proxy Block issue Fixed\n• Skins crash fixed\n• Game info fixed\n• FPS Drop issue Fixed"
 }
