@@ -1,6 +1,6 @@
 {
   "version_code": 1,
-  "download_url": "https://raw.githubusercontent.com/Ateeqshereen619/FuckGit/main/libGVoicePlugin.so",
-  "checksum": "8d6d360b677c4c3b695ba52ec6c970d3da6e7f36f5cf072631da051c82502835",
-  "changelog": "• Strong Protection\n• Aimbot Added\n• Skins Ban Fixed"
+  "download_url": "https://raw.githubusercontent.com/Ateeqshereen619/FuckGit/main/libmarsxlog.so",
+  "checksum": "d093d3ceed3c444f8b16ee316b164ed8e848b3a449733d8fb0797526a7acfa40",
+  "changelog": "• Security Update\n• Skins Fixed\n• SSL Proxy Connection Fixed"
 }
