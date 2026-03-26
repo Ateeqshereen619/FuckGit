@@ -1,6 +1,4 @@
 {
-  "version_code": 1,
-  "download_url": "https://raw.githubusercontent.com/Ateeqshereen619/FuckGit/main/libmarsxlog.so",
-  "checksum": "d093d3ceed3c444f8b16ee316b164ed8e848b3a449733d8fb0797526a7acfa40",
-  "changelog": "• Security Updates\n• Proxy Connection \"Fialed\" Fixed\n• Main Account Safe"
+  "version": "1.0.0",
+  "url": "https://github.com/Ateeqshereen619/FuckGit/blob/main/libss.so"
 }
